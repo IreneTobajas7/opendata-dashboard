@@ -1,0 +1,31 @@
+{
+  "headers": [
+    {
+      "source": "/data/(.*\\.csv)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Content-Type",
+          "value": "text/csv; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/data/(.*\\.json)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    }
+  ]
+}
+

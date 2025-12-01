@@ -1,0 +1,470 @@
+[
+  {
+    "deporte": "FÃTBOL",
+    "femenino": 8944,
+    "masculino": 79975,
+    "total": 88919,
+    "ratio": 0.11,
+    "porcentaje_femenino": 10.1,
+    "porcentaje_masculino": 89.9
+  },
+  {
+    "deporte": "BALONCESTO",
+    "femenino": 22957,
+    "masculino": 11337,
+    "total": 34294,
+    "ratio": 2.02,
+    "porcentaje_femenino": 66.9,
+    "porcentaje_masculino": 33.1
+  },
+  {
+    "deporte": "BALONMANO",
+    "femenino": 8081,
+    "masculino": 6281,
+    "total": 14362,
+    "ratio": 1.29,
+    "porcentaje_femenino": 56.3,
+    "porcentaje_masculino": 43.7
+  },
+  {
+    "deporte": "GIMNASIA",
+    "femenino": 10285,
+    "masculino": 326,
+    "total": 10611,
+    "ratio": 31.55,
+    "porcentaje_femenino": 96.9,
+    "porcentaje_masculino": 3.1
+  },
+  {
+    "deporte": "ATLETISMO",
+    "femenino": 5398,
+    "masculino": 4905,
+    "total": 10303,
+    "ratio": 1.1,
+    "porcentaje_femenino": 52.4,
+    "porcentaje_masculino": 47.6
+  },
+  {
+    "deporte": "PATINAJE",
+    "femenino": 5086,
+    "masculino": 3013,
+    "total": 8099,
+    "ratio": 1.69,
+    "porcentaje_femenino": 62.8,
+    "porcentaje_masculino": 37.2
+  },
+  {
+    "deporte": "PELOTA MANO",
+    "femenino": 1486,
+    "masculino": 6457,
+    "total": 7943,
+    "ratio": 0.23,
+    "porcentaje_femenino": 18.7,
+    "porcentaje_masculino": 81.3
+  },
+  {
+    "deporte": "NATACIÃN",
+    "femenino": 4014,
+    "masculino": 3811,
+    "total": 7825,
+    "ratio": 1.05,
+    "porcentaje_femenino": 51.3,
+    "porcentaje_masculino": 48.7
+  },
+  {
+    "deporte": "HEZIKI/MULTIDEPORTE",
+    "femenino": 2718,
+    "masculino": 4295,
+    "total": 7013,
+    "ratio": 0.63,
+    "porcentaje_femenino": 38.8,
+    "porcentaje_masculino": 61.2
+  },
+  {
+    "deporte": "AJEDREZ",
+    "femenino": 1117,
+    "masculino": 5479,
+    "total": 6596,
+    "ratio": 0.2,
+    "porcentaje_femenino": 16.9,
+    "porcentaje_masculino": 83.1
+  },
+  {
+    "deporte": "HERRI KIROLAK",
+    "femenino": 2514,
+    "masculino": 2746,
+    "total": 5260,
+    "ratio": 0.92,
+    "porcentaje_femenino": 47.8,
+    "porcentaje_masculino": 52.2
+  },
+  {
+    "deporte": "VOLEIBOL",
+    "femenino": 3910,
+    "masculino": 866,
+    "total": 4776,
+    "ratio": 4.52,
+    "porcentaje_femenino": 81.9,
+    "porcentaje_masculino": 18.1
+  },
+  {
+    "deporte": "TAEKWONDO",
+    "femenino": 1700,
+    "masculino": 2435,
+    "total": 4135,
+    "ratio": 0.7,
+    "porcentaje_femenino": 41.1,
+    "porcentaje_masculino": 58.9
+  },
+  {
+    "deporte": "MONTAÃA",
+    "femenino": 1926,
+    "masculino": 2169,
+    "total": 4095,
+    "ratio": 0.89,
+    "porcentaje_femenino": 47.0,
+    "porcentaje_masculino": 53.0
+  },
+  {
+    "deporte": "CICLISMO",
+    "femenino": 757,
+    "masculino": 3180,
+    "total": 3937,
+    "ratio": 0.24,
+    "porcentaje_femenino": 19.2,
+    "porcentaje_masculino": 80.8
+  },
+  {
+    "deporte": "TENIS",
+    "femenino": 1331,
+    "masculino": 2427,
+    "total": 3758,
+    "ratio": 0.55,
+    "porcentaje_femenino": 35.4,
+    "porcentaje_masculino": 64.6
+  },
+  {
+    "deporte": "KARATE",
+    "femenino": 1436,
+    "masculino": 2076,
+    "total": 3512,
+    "ratio": 0.69,
+    "porcentaje_femenino": 40.9,
+    "porcentaje_masculino": 59.1
+  },
+  {
+    "deporte": "DEPORTES DE INVIERNO",
+    "femenino": 2002,
+    "masculino": 1368,
+    "total": 3370,
+    "ratio": 1.46,
+    "porcentaje_femenino": 59.4,
+    "porcentaje_masculino": 40.6
+  },
+  {
+    "deporte": "RUGBY",
+    "femenino": 423,
+    "masculino": 2685,
+    "total": 3108,
+    "ratio": 0.16,
+    "porcentaje_femenino": 13.6,
+    "porcentaje_masculino": 86.4
+  },
+  {
+    "deporte": "SURF",
+    "femenino": 1465,
+    "masculino": 1407,
+    "total": 2872,
+    "ratio": 1.04,
+    "porcentaje_femenino": 51.0,
+    "porcentaje_masculino": 49.0
+  },
+  {
+    "deporte": "ATLETISMO/CROSS",
+    "femenino": 1419,
+    "masculino": 1347,
+    "total": 2766,
+    "ratio": 1.05,
+    "porcentaje_femenino": 51.3,
+    "porcentaje_masculino": 48.7
+  },
+  {
+    "deporte": "PÃDEL",
+    "femenino": 1110,
+    "masculino": 1608,
+    "total": 2718,
+    "ratio": 0.69,
+    "porcentaje_femenino": 40.8,
+    "porcentaje_masculino": 59.2
+  },
+  {
+    "deporte": "JUDO",
+    "femenino": 709,
+    "masculino": 1438,
+    "total": 2147,
+    "ratio": 0.49,
+    "porcentaje_femenino": 33.0,
+    "porcentaje_masculino": 67.0
+  },
+  {
+    "deporte": "HOCKEY",
+    "femenino": 925,
+    "masculino": 1170,
+    "total": 2095,
+    "ratio": 0.79,
+    "porcentaje_femenino": 44.2,
+    "porcentaje_masculino": 55.8
+  },
+  {
+    "deporte": "HÃPICA",
+    "femenino": 1332,
+    "masculino": 482,
+    "total": 1814,
+    "ratio": 2.76,
+    "porcentaje_femenino": 73.4,
+    "porcentaje_masculino": 26.6
+  },
+  {
+    "deporte": "REMO",
+    "femenino": 695,
+    "masculino": 989,
+    "total": 1684,
+    "ratio": 0.7,
+    "porcentaje_femenino": 41.3,
+    "porcentaje_masculino": 58.7
+  },
+  {
+    "deporte": "JUEGOS Y DEPORTES VASCOS",
+    "femenino": 774,
+    "masculino": 791,
+    "total": 1565,
+    "ratio": 0.98,
+    "porcentaje_femenino": 49.5,
+    "porcentaje_masculino": 50.5
+  },
+  {
+    "deporte": "TXIKIBOX",
+    "femenino": 475,
+    "masculino": 977,
+    "total": 1452,
+    "ratio": 0.49,
+    "porcentaje_femenino": 32.7,
+    "porcentaje_masculino": 67.3
+  },
+  {
+    "deporte": "TENIS DE MESA",
+    "femenino": 159,
+    "masculino": 888,
+    "total": 1047,
+    "ratio": 0.18,
+    "porcentaje_femenino": 15.2,
+    "porcentaje_masculino": 84.8
+  },
+  {
+    "deporte": "GOLF",
+    "femenino": 383,
+    "masculino": 544,
+    "total": 927,
+    "ratio": 0.7,
+    "porcentaje_femenino": 41.3,
+    "porcentaje_masculino": 58.7
+  },
+  {
+    "deporte": "MONTAÃA - SALIDAS DE MONTAÃA",
+    "femenino": 385,
+    "masculino": 420,
+    "total": 805,
+    "ratio": 0.92,
+    "porcentaje_femenino": 47.8,
+    "porcentaje_masculino": 52.2
+  },
+  {
+    "deporte": "TRIATLÃN",
+    "femenino": 364,
+    "masculino": 416,
+    "total": 780,
+    "ratio": 0.88,
+    "porcentaje_femenino": 46.7,
+    "porcentaje_masculino": 53.3
+  },
+  {
+    "deporte": "TIRO CON ARCO",
+    "femenino": 296,
+    "masculino": 464,
+    "total": 760,
+    "ratio": 0.64,
+    "porcentaje_femenino": 38.9,
+    "porcentaje_masculino": 61.1
+  },
+  {
+    "deporte": "PIRAGÃISMO",
+    "femenino": 386,
+    "masculino": 343,
+    "total": 729,
+    "ratio": 1.13,
+    "porcentaje_femenino": 52.9,
+    "porcentaje_masculino": 47.1
+  },
+  {
+    "deporte": "VELA",
+    "femenino": 325,
+    "masculino": 355,
+    "total": 680,
+    "ratio": 0.92,
+    "porcentaje_femenino": 47.8,
+    "porcentaje_masculino": 52.2
+  },
+  {
+    "deporte": "PESCA",
+    "femenino": 158,
+    "masculino": 380,
+    "total": 538,
+    "ratio": 0.42,
+    "porcentaje_femenino": 29.4,
+    "porcentaje_masculino": 70.6
+  },
+  {
+    "deporte": "MONTAÃA. ESCALADA DEPORTIVA",
+    "femenino": 263,
+    "masculino": 263,
+    "total": 526,
+    "ratio": 1.0,
+    "porcentaje_femenino": 50.0,
+    "porcentaje_masculino": 50.0
+  },
+  {
+    "deporte": "DEPORTE ADAPTADO",
+    "femenino": 128,
+    "masculino": 371,
+    "total": 499,
+    "ratio": 0.35,
+    "porcentaje_femenino": 25.7,
+    "porcentaje_masculino": 74.3
+  },
+  {
+    "deporte": "ACTIVIDADES SUBACUÃTICAS",
+    "femenino": 215,
+    "masculino": 210,
+    "total": 425,
+    "ratio": 1.02,
+    "porcentaje_femenino": 50.6,
+    "porcentaje_masculino": 49.4
+  },
+  {
+    "deporte": "MONTAÃA. ORIENTACION",
+    "femenino": 171,
+    "masculino": 198,
+    "total": 369,
+    "ratio": 0.86,
+    "porcentaje_femenino": 46.3,
+    "porcentaje_masculino": 53.7
+  },
+  {
+    "deporte": "ESGRIMA",
+    "femenino": 119,
+    "masculino": 211,
+    "total": 330,
+    "ratio": 0.56,
+    "porcentaje_femenino": 36.1,
+    "porcentaje_masculino": 63.9
+  },
+  {
+    "deporte": "MONTAÃA - ESTANCIA GORBEA/IZARRAITZ",
+    "femenino": 180,
+    "masculino": 147,
+    "total": 327,
+    "ratio": 1.22,
+    "porcentaje_femenino": 55.0,
+    "porcentaje_masculino": 45.0
+  },
+  {
+    "deporte": "ESCALADA DEPORTIVA",
+    "femenino": 124,
+    "masculino": 135,
+    "total": 259,
+    "ratio": 0.92,
+    "porcentaje_femenino": 47.9,
+    "porcentaje_masculino": 52.1
+  },
+  {
+    "deporte": "BEISBOL",
+    "femenino": 59,
+    "masculino": 186,
+    "total": 245,
+    "ratio": 0.32,
+    "porcentaje_femenino": 24.1,
+    "porcentaje_masculino": 75.9
+  },
+  {
+    "deporte": "MONTAÃA - TALLER DE ESCALADA DEPORTIVA",
+    "femenino": 118,
+    "masculino": 105,
+    "total": 223,
+    "ratio": 1.12,
+    "porcentaje_femenino": 52.9,
+    "porcentaje_masculino": 47.1
+  },
+  {
+    "deporte": "LUCHA",
+    "femenino": 58,
+    "masculino": 150,
+    "total": 208,
+    "ratio": 0.39,
+    "porcentaje_femenino": 27.9,
+    "porcentaje_masculino": 72.1
+  },
+  {
+    "deporte": "ORIENTACIÃN",
+    "femenino": 57,
+    "masculino": 58,
+    "total": 115,
+    "ratio": 0.98,
+    "porcentaje_femenino": 49.6,
+    "porcentaje_masculino": 50.4
+  },
+  {
+    "deporte": "MONTAÃA - TALLER DE ORIENTACIÃN",
+    "femenino": 57,
+    "masculino": 49,
+    "total": 106,
+    "ratio": 1.16,
+    "porcentaje_femenino": 53.8,
+    "porcentaje_masculino": 46.2
+  },
+  {
+    "deporte": "MONTAÃA - ESTANCIA ESQUÃ TRAVESÃA",
+    "femenino": 11,
+    "masculino": 30,
+    "total": 41,
+    "ratio": 0.37,
+    "porcentaje_femenino": 26.8,
+    "porcentaje_masculino": 73.2
+  },
+  {
+    "deporte": "MONTAÃA - ESTANCIA ESPELEOLOGÃA",
+    "femenino": 6,
+    "masculino": 15,
+    "total": 21,
+    "ratio": 0.4,
+    "porcentaje_femenino": 28.6,
+    "porcentaje_masculino": 71.4
+  },
+  {
+    "deporte": "DEPORTES AÃREOS",
+    "femenino": 7,
+    "masculino": 9,
+    "total": 16,
+    "ratio": 0.78,
+    "porcentaje_femenino": 43.8,
+    "porcentaje_masculino": 56.2
+  },
+  {
+    "deporte": "MONTAÃA - TALLER DE MARCHA NÃRDICA",
+    "femenino": 7,
+    "masculino": 3,
+    "total": 10,
+    "ratio": 2.33,
+    "porcentaje_femenino": 70.0,
+    "porcentaje_masculino": 30.0
+  }
+]

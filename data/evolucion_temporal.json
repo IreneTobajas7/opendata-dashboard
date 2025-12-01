@@ -1,0 +1,37 @@
+[
+  {
+    "temporada": "2018-2019",
+    "femenino": 16662,
+    "masculino": 29386,
+    "total": 46048,
+    "ratio_femenino": 36.2
+  },
+  {
+    "temporada": "2019-2020",
+    "femenino": 17071,
+    "masculino": 29464,
+    "total": 46535,
+    "ratio_femenino": 36.7
+  },
+  {
+    "temporada": "2021-2022",
+    "femenino": 15399,
+    "masculino": 27406,
+    "total": 42805,
+    "ratio_femenino": 36.0
+  },
+  {
+    "temporada": "2022-2023",
+    "femenino": 22722,
+    "masculino": 37319,
+    "total": 60041,
+    "ratio_femenino": 37.8
+  },
+  {
+    "temporada": "2023-2024",
+    "femenino": 27171,
+    "masculino": 38415,
+    "total": 65586,
+    "ratio_femenino": 41.4
+  }
+]
